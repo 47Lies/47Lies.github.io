@@ -13,6 +13,9 @@ output: html_document
 
 ## proteogenomics
 
-[pipeline output](Works/Proteogenomics/PipelineRapport.html)
+[Protein presentation](Works/strngt_14370_1_start_190_stop_3828_frame_1_flag_1_UNIPROT_sp_P55011_S12A2_HUMAN_tr_Q53ZR1_Q53ZR1_HUMAN_N_2.html)
 
-## basics annotations 
+[Isoform presentation](Works/strngt_5372_8_start_14_stop_904_frame_2_flag_1_UNIPROT_sp_Q86U42_2_PABP2_HUMAN.html)
+
+
+# personal works
