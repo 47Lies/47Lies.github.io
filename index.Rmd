@@ -1,0 +1,18 @@
+---
+title: "Quick summary of my works"
+author: "Lieng TAING"
+date: "9/29/2020"
+output: html_document
+---
+
+# formation support
+
+[Bash Bases](Formations/Bash_Bases.html)
+
+# on going works
+
+## proteogenomics
+
+[pipeline output](Works/Proteogenomics/PipelineRapport.html)
+
+## basics annotations 
